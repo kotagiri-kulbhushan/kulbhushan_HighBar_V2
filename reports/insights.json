@@ -1,0 +1,2480 @@
+[
+    {
+        "campaign": "MEN  Signature  Soft",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.011165605212353633,
+                "previous": 0.013175130382475031,
+                "change_pct": -0.15251254441092776,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 1.8381258599293417,
+                "previous": 1.9990592322311584,
+                "change_pct": -0.08050451392462467,
+                "interpretation": "ROAS has remained stable."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.15."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "MEN  Signature  Soft",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.15.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "MEN  Signature  Soft",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Partially Supported",
+                "final_confidence": 0.7
+            }
+        ]
+    },
+    {
+        "campaign": "MEN BOLD COLORS DROP",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.008409810162668976,
+                "previous": 0.00855249269836668,
+                "change_pct": -0.016681201554652705,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 2.2026201009544746,
+                "previous": 1.2159944501950277,
+                "change_pct": 0.81137281443052,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "MEN BOLD COLORS DROP",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "MEN COMFORTMAX LAUNCH",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.01678242405173293,
+                "previous": 0.015445389375363579,
+                "change_pct": 0.08655969002709935,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 14.16493847772854,
+                "previous": 7.374268735873295,
+                "change_pct": 0.9208599610644788,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "MEN COMFORTMAX LAUNCH",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "MEN PREMIUM MODAL",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.011503577974864286,
+                "previous": 0.010873887197893044,
+                "change_pct": 0.05790320078844043,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 18.91075828666427,
+                "previous": 7.194407806682263,
+                "change_pct": 1.6285355468123666,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "MEN PREMIUM MODAL",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "MEN SIGNATURE SOFT",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.015301040443007672,
+                "previous": 0.0119007786755846,
+                "change_pct": 0.2856935807753169,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 1.4669244745617984,
+                "previous": 2.273391729006288,
+                "change_pct": -0.3547417233084055,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.35."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "MEN SIGNATURE SOFT",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.35.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "MEN Signature Soft",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.014467167031781716,
+                "previous": 0.010968754209903077,
+                "change_pct": 0.31891442186739294,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 2.540493826529391,
+                "previous": 0.9033296339558431,
+                "change_pct": 1.8123643005486472,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "MEN Signature Soft",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "MEN | ATHLEISURE COOLING",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.018872994047018976,
+                "previous": 0.023632901421815296,
+                "change_pct": -0.20140167676263057,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 154.4430889211047,
+                "previous": 15.131454065492202,
+                "change_pct": 9.206757331178112,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.20."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "MEN | ATHLEISURE COOLING",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.20.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            }
+        ]
+    },
+    {
+        "campaign": "MEN_Signature_Soft",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.013144405247269472,
+                "previous": 0.01522698084553587,
+                "change_pct": -0.13675979891167986,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 51.771398373383704,
+                "previous": 268.530848067261,
+                "change_pct": -0.8072050211243472,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.14."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.81."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "MEN_Signature_Soft",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.14.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "MEN_Signature_Soft",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.81.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "MEN_Signature_Soft",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "Men  Bold  Colors  Drop",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.00834418398171275,
+                "previous": 0.010338654765106748,
+                "change_pct": -0.19289529763844163,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 1.649870591127711,
+                "previous": 2.3787903694582897,
+                "change_pct": -0.306424425315017,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.19."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.31."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men  Bold  Colors  Drop",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.19.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "Men  Bold  Colors  Drop",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.31.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "Men  Bold  Colors  Drop",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "Men  ComfortMax  Launch",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.014455437616312928,
+                "previous": 0.01270211891849681,
+                "change_pct": 0.13802269419544977,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 23.932530318886187,
+                "previous": 442.22862340726294,
+                "change_pct": -0.9458819940681952,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.95."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men  ComfortMax  Launch",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.95.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "Men  Premium  Modal",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.00909208907570845,
+                "previous": 0.010489095310171583,
+                "change_pct": -0.13317383619084425,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.590314883221856,
+                "previous": 4.422682943094689,
+                "change_pct": 1.168437990735376,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.13."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men  Premium  Modal",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.13.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            }
+        ]
+    },
+    {
+        "campaign": "Men  |  Athleisure  Cooling",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.023083074836576484,
+                "previous": 0.020352595884633153,
+                "change_pct": 0.1341521649255514,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 28.406552759612048,
+                "previous": 8.928306826274914,
+                "change_pct": 2.1816279537332988,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men  |  Athleisure  Cooling",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Men Bold Colors Drop",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.007958642605945093,
+                "previous": 0.007813347715772353,
+                "change_pct": 0.01859334847353659,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 11.730211839324623,
+                "previous": 2.026878030766928,
+                "change_pct": 4.7873275421307,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men Bold Colors Drop",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Men ComfortMax Launch",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.013999936763067414,
+                "previous": 0.01353865831542292,
+                "change_pct": 0.034068691904806395,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 4.365508886889417,
+                "previous": 10.230041900677387,
+                "change_pct": -0.5732657302345865,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.57."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men ComfortMax Launch",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.57.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "Men Comfortmax Launch",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.01531886869544033,
+                "previous": 0.01740369427489325,
+                "change_pct": -0.11978524566560986,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 2.9478304015612347,
+                "previous": 16.01705314040586,
+                "change_pct": -0.8159567061632883,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.12."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.82."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men Comfortmax Launch",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.12.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "Men Comfortmax Launch",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.82.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "Men Comfortmax Launch",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "Men Premium Modal",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.009797405438482721,
+                "previous": 0.010608809011117637,
+                "change_pct": -0.07647673693133167,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 4.705765144402241,
+                "previous": 6.268450940721631,
+                "change_pct": -0.24929373489613002,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.08."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.25."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men Premium Modal",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.08.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "Men Premium Modal",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.25.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "Men Premium Modal",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "Men Signature Soft",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.014443126653349013,
+                "previous": 0.013826625339246662,
+                "change_pct": 0.044584756888989996,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 2.2551273181522444,
+                "previous": 0.9878823112709302,
+                "change_pct": 1.2827881516198305,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men Signature Soft",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Men | Athleisure Cooling",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.021586023768845577,
+                "previous": 0.018465527333889557,
+                "change_pct": 0.16898122633102328,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 20.11029136047006,
+                "previous": 11.270867109153302,
+                "change_pct": 0.784271820565275,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men | Athleisure Cooling",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Men-Athleisure Cooling",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.021234318436967027,
+                "previous": 0.01983715514401241,
+                "change_pct": 0.07042808581806627,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.40926769108312,
+                "previous": 24.874217361421653,
+                "change_pct": -0.6217260556948272,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.62."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men-Athleisure Cooling",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.62.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "Men_Bold_Colors_Drop",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.009076098924761522,
+                "previous": 0.009991039623634002,
+                "change_pct": -0.09156696063418189,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 3.6182754715689325,
+                "previous": 2.326018097305854,
+                "change_pct": 0.5555661068130759,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.09."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men_Bold_Colors_Drop",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.09.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            }
+        ]
+    },
+    {
+        "campaign": "Men_ComfortMax_Launch",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.014470145932971313,
+                "previous": 0.015020763740117364,
+                "change_pct": -0.03665467096087807,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 13.433765900813698,
+                "previous": 8.59787618608288,
+                "change_pct": 0.562451592418478,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men_ComfortMax_Launch",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Men_Premium_Modal",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.011127481919104381,
+                "previous": 0.00979004532497152,
+                "change_pct": 0.13659793717038607,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 7.8199660253722385,
+                "previous": 4.687609419352335,
+                "change_pct": 0.66822033526683,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men_Premium_Modal",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Men_|_Athleisure_Cooling",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.019037795399853792,
+                "previous": 0.02266622468498996,
+                "change_pct": -0.16007382180928756,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 14.467649400468973,
+                "previous": 30.76558961040767,
+                "change_pct": -0.5297457284771018,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.16."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.53."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Men_|_Athleisure_Cooling",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.16.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "Men_|_Athleisure_Cooling",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.53.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "Men_|_Athleisure_Cooling",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN  Cotton  Classics",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.009556379759097244,
+                "previous": 0.011312551096174291,
+                "change_pct": -0.155227242282125,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.836963885550814,
+                "previous": 28.881214446452393,
+                "change_pct": -0.6593992069416479,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.16."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.66."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN  Cotton  Classics",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.16.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "WOMEN  Cotton  Classics",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.66.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "WOMEN  Cotton  Classics",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN  Seamless  Everyday",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.006839197574865404,
+                "previous": 0.00785618445802958,
+                "change_pct": -0.12943400891204418,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 7.061001247674915,
+                "previous": 15.980341513765621,
+                "change_pct": -0.5581444989935291,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.13."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.56."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN  Seamless  Everyday",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.13.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "WOMEN  Seamless  Everyday",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.56.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "WOMEN  Seamless  Everyday",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN COTTON CLASSICS",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.01048034424483488,
+                "previous": 0.01110976378788242,
+                "change_pct": -0.05664952968705853,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 7.252131001992901,
+                "previous": 9.605055879397344,
+                "change_pct": -0.2449673028435074,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.06."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.24."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN COTTON CLASSICS",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.06.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "WOMEN COTTON CLASSICS",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.24.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "WOMEN COTTON CLASSICS",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN Cotton Classics",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.010716644862683434,
+                "previous": 0.008195241766269425,
+                "change_pct": 0.3076291754582592,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.133677603448906,
+                "previous": 4.591276342349391,
+                "change_pct": 0.9893545787794064,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN Cotton Classics",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN FIT & LIFT",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.020342174431231323,
+                "previous": 0.01632498189890965,
+                "change_pct": 0.24606131240351092,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 3.552666699401761,
+                "previous": 11.688055103120902,
+                "change_pct": -0.6960428947245436,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.70."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN FIT & LIFT",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.70.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN SEAMLESS EVERYDAY",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.006906085059468164,
+                "previous": 0.00767862571101655,
+                "change_pct": -0.10059613327771477,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 4.2680432584030985,
+                "previous": 15.425908081419395,
+                "change_pct": -0.7233197579555305,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.10."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.72."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN SEAMLESS EVERYDAY",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.10.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "WOMEN SEAMLESS EVERYDAY",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.72.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "WOMEN SEAMLESS EVERYDAY",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN SUMMER INVISIBLE",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.008391354607265193,
+                "previous": 0.010310028549750713,
+                "change_pct": -0.1860797817819937,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 12.031158837964927,
+                "previous": 9.28116317787719,
+                "change_pct": 0.29629856851823555,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.19."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN SUMMER INVISIBLE",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.19.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN Seamless Everyday",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.006834665441866149,
+                "previous": 0.00798016301926936,
+                "change_pct": -0.14352514472359154,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 6.137443149156839,
+                "previous": 3.459746963365955,
+                "change_pct": 0.7739570090492313,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.14."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN Seamless Everyday",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.14.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN | STUDIO SPORTS",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.011562256143637003,
+                "previous": 0.012137718092535225,
+                "change_pct": -0.047407143366489844,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 1083.2968587447328,
+                "previous": 17.187920885408733,
+                "change_pct": 62.02663387505684,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN | STUDIO SPORTS",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN_Cotton_Classics",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.009219267910634482,
+                "previous": 0.008256269924839264,
+                "change_pct": 0.11662425893313207,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 474.3239829427484,
+                "previous": 6.912795931752599,
+                "change_pct": 67.61535043276517,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN_Cotton_Classics",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "WOMEN_Seamless_Everyday",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.007223499166612172,
+                "previous": 0.007551821655654408,
+                "change_pct": -0.04347017631436289,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.564340579465432,
+                "previous": 4.777751359938626,
+                "change_pct": 1.0018495851024587,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "WOMEN_Seamless_Everyday",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Women  Fit  &  Lift",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.015853938805833613,
+                "previous": 0.01884209842435976,
+                "change_pct": -0.15858111820204418,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 3.8592999887698745,
+                "previous": 33.01632471641948,
+                "change_pct": -0.8831093131949996,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.16."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.88."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women  Fit  &  Lift",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.16.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "Women  Fit  &  Lift",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.88.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "Women  Fit  &  Lift",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "Women  |  Studio  Sports",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.00998627244995329,
+                "previous": 0.011225006728960154,
+                "change_pct": -0.1103450504631583,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 14.300055540362445,
+                "previous": 25.410678314156772,
+                "change_pct": -0.4372422569436933,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.11."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.44."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women  |  Studio  Sports",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.11.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "Women  |  Studio  Sports",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.44.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "Women  |  Studio  Sports",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "Women Cotton Classics",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.01131489584991038,
+                "previous": 0.009189853821729517,
+                "change_pct": 0.23121268920159765,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 16.567010764669305,
+                "previous": 6.253478923075754,
+                "change_pct": 1.6492468143274814,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women Cotton Classics",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Women Fit & Lift",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.018604430649071885,
+                "previous": 0.018692469078287144,
+                "change_pct": -0.004709582199353123,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 2.782791717903637,
+                "previous": 4.372623805400893,
+                "change_pct": -0.3635875837171207,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.36."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women Fit & Lift",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.36.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "Women Fit and Lift",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.013941045949685097,
+                "previous": 0.017030366902492516,
+                "change_pct": -0.1813900769382933,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 8.383516243924714,
+                "previous": 3.6013347162225555,
+                "change_pct": 1.3278910672394055,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.18."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women Fit and Lift",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.18.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            }
+        ]
+    },
+    {
+        "campaign": "Women Seamless Everyday",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.006680148635485771,
+                "previous": 0.006420553911095406,
+                "change_pct": 0.04042553064015049,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 6.458454510959347,
+                "previous": 3.37088232537549,
+                "change_pct": 0.9159534423339692,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women Seamless Everyday",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Women Summer Invisible",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.009657032106808345,
+                "previous": 0.010068050234789478,
+                "change_pct": -0.04081995008437129,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 5.367479142399979,
+                "previous": 6.5883578866855075,
+                "change_pct": -0.18530847594729796,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.19."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women Summer Invisible",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.19.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "Women Summer Invisible",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "Women | Studio Sports",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.00974979693265594,
+                "previous": 0.008278242132628013,
+                "change_pct": 0.17774027821080574,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 13.03120474660035,
+                "previous": 11.929395542328686,
+                "change_pct": 0.09236084996941384,
+                "interpretation": "ROAS has remained stable."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women | Studio Sports",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "Women-Studio Sports",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.01098763514970782,
+                "previous": 0.009878393358784442,
+                "change_pct": 0.11227833032248637,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 5.847085220506204,
+                "previous": 10.356143903722494,
+                "change_pct": -0.43539934262560565,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.44."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women-Studio Sports",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.44.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "Women_Fit_&_Lift",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.013251683588691535,
+                "previous": 0.015098098391190178,
+                "change_pct": -0.12228642761715924,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 2.4536003616655515,
+                "previous": 376.2871304091238,
+                "change_pct": -0.9934794438691611,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.12."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.99."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women_Fit_&_Lift",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.12.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "Women_Fit_&_Lift",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.99.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "Women_Fit_&_Lift",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "Women_|_Studio_Sports",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.009391501635106086,
+                "previous": 0.010573556144277633,
+                "change_pct": -0.11178289594795049,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 7.481453911725619,
+                "previous": 5.126566533722579,
+                "change_pct": 0.4593497232822121,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.11."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "Women_|_Studio_Sports",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.11.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            }
+        ]
+    },
+    {
+        "campaign": "men bold colors drop",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.010360995649034477,
+                "previous": 0.009014071994570853,
+                "change_pct": 0.14940797536334505,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 2.006402952741298,
+                "previous": 2.4759873798312206,
+                "change_pct": -0.18965534366600406,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.19."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "men bold colors drop",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.19.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "men comfortmax launch",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.01648062505391103,
+                "previous": 0.016065488660314733,
+                "change_pct": 0.0258386510191061,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.670855190361769,
+                "previous": 9.636741067599692,
+                "change_pct": 0.00354000579477726,
+                "interpretation": "ROAS has remained stable."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "men comfortmax launch",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "men premium modal",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.011313255483239455,
+                "previous": 0.009434341988137295,
+                "change_pct": 0.19913570673585,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.8083970541603,
+                "previous": 4.011901544432235,
+                "change_pct": 1.4448246051670692,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "men premium modal",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "men signature soft",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.013118106897088573,
+                "previous": 0.015176160578575489,
+                "change_pct": -0.13560202323958562,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 1.7592021741097004,
+                "previous": 3.9153282321874068,
+                "change_pct": -0.5506883151364329,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.14."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.55."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "men signature soft",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.14.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "men signature soft",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.55.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "men signature soft",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "men | athleisure cooling",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.018610837567971182,
+                "previous": 0.018927314072390258,
+                "change_pct": -0.016719740765539347,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 8.443623341002509,
+                "previous": 8.833727484604264,
+                "change_pct": -0.04416075774591021,
+                "interpretation": "ROAS has remained stable."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "men | athleisure cooling",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "women  Summer  Invisible",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.008853863474448864,
+                "previous": 0.012806857982019639,
+                "change_pct": -0.3086382214044067,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 5.8137157243516,
+                "previous": 20.549353279671347,
+                "change_pct": -0.7170851869490188,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.31."
+            },
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.72."
+            },
+            {
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "women  Summer  Invisible",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.31.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            },
+            {
+                "campaign": "women  Summer  Invisible",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.72.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            },
+            {
+                "campaign": "women  Summer  Invisible",
+                "hypothesis": "Audience saturation or targeting inefficiency.",
+                "initial_confidence": 0.7,
+                "evidence": "Both CTR and ROAS decreased together.",
+                "validation": "Supported",
+                "final_confidence": 0.82
+            }
+        ]
+    },
+    {
+        "campaign": "women Summer Invisible",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.01076477800930641,
+                "previous": 0.009141522534908702,
+                "change_pct": 0.1775500654441558,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.518178370788698,
+                "previous": 4.135203328891422,
+                "change_pct": 1.3017434239677244,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "women Summer Invisible",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "women cotton classics",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.010806146568422785,
+                "previous": 0.007554160920505808,
+                "change_pct": 0.4304323471245483,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 17.030934729865614,
+                "previous": 9.711270176706066,
+                "change_pct": 0.7537287776204682,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "women cotton classics",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "women fit & lift",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.019019315874350823,
+                "previous": 0.019353810090468992,
+                "change_pct": -0.017282226720627274,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.198588354436552,
+                "previous": 15.510977941371166,
+                "change_pct": -0.40696268177491324,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.41."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "women fit & lift",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.41.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "women seamless everyday",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.008334001882766897,
+                "previous": 0.007066843424192811,
+                "change_pct": 0.17928502126075363,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 4.506022282917403,
+                "previous": 493.4313899093664,
+                "change_pct": -0.9908679841495024,
+                "interpretation": "ROAS has dropped significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Increased spend without proportional returns.",
+                "confidence": 0.75,
+                "evidence": "ROAS dropped by -0.99."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "women seamless everyday",
+                "hypothesis": "Increased spend without proportional returns.",
+                "initial_confidence": 0.75,
+                "evidence": "ROAS dropped by -0.99.",
+                "validation": "Supported",
+                "final_confidence": 0.87
+            }
+        ]
+    },
+    {
+        "campaign": "women summer invisible",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.0101629067301113,
+                "previous": 0.009773272845780568,
+                "change_pct": 0.03986320931269403,
+                "interpretation": "CTR has remained relatively stable."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 6.28397578441943,
+                "previous": 3.0046896780137793,
+                "change_pct": 1.091388917468666,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "women summer invisible",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "women | studio sports",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.010859708063609096,
+                "previous": 0.009985134143157898,
+                "change_pct": 0.08757882759370113,
+                "interpretation": "CTR has significantly increased."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 677.7557738892486,
+                "previous": 8.92967812705992,
+                "change_pct": 74.89923055974336,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "No major performance issues detected.",
+                "confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "women | studio sports",
+                "hypothesis": "No major performance issues detected.",
+                "initial_confidence": 0.5,
+                "evidence": "CTR and ROAS changes are minimal.",
+                "validation": "Not Supported",
+                "final_confidence": 0.4
+            }
+        ]
+    },
+    {
+        "campaign": "women_Summer_Invisible",
+        "insights": [
+            {
+                "metric": "CTR",
+                "recent": 0.010485739174910575,
+                "previous": 0.012839731749502283,
+                "change_pct": -0.18332230752215123,
+                "interpretation": "CTR has significantly dropped."
+            },
+            {
+                "metric": "ROAS",
+                "recent": 9.782238914377416,
+                "previous": 8.463537373432642,
+                "change_pct": 0.1558097196184786,
+                "interpretation": "ROAS has increased significantly."
+            }
+        ],
+        "hypotheses": [
+            {
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "confidence": 0.8,
+                "evidence": "CTR dropped by -0.18."
+            }
+        ],
+        "evaluated_hypotheses": [
+            {
+                "campaign": "women_Summer_Invisible",
+                "hypothesis": "Creative fatigue leading to lower CTR.",
+                "initial_confidence": 0.8,
+                "evidence": "CTR dropped by -0.18.",
+                "validation": "Supported",
+                "final_confidence": 0.9
+            }
+        ]
+    }
+]
