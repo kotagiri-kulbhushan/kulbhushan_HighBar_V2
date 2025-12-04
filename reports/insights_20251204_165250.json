@@ -1,0 +1,1105 @@
+{
+  "run_id": "20251204_165250",
+  "generated_at": "2025-12-04T16:52:52.394204",
+  "insights": [
+    {
+      "campaign": "Men ComfortMax Launch",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": -0.08195050946142671,
+          "roas_delta": 1.6929066968710182,
+          "cpc_delta": 0.13012181616832755
+        }
+      }
+    },
+    {
+      "campaign": "Men  ComfortMax  Launch",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -73.98%",
+            "CPC increased 48.92%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.1562572198690797,
+          "roas_delta": -0.7398441395460886,
+          "cpc_delta": 0.48915482423335815
+        }
+      }
+    },
+    {
+      "campaign": "Men_ComfortMax_Launch",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -49.74%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.13550600343053143,
+          "roas_delta": -0.4974062209362406,
+          "cpc_delta": -0.16173120728929385
+        }
+      }
+    },
+    {
+      "campaign": "Men Comfortmax Launch",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -73.02%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.19983619983619993,
+          "roas_delta": -0.7301896463352128,
+          "cpc_delta": 0.09975669099756718
+        }
+      }
+    },
+    {
+      "campaign": "MEN COMFORTMAX LAUNCH",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.03338171262699559,
+          "roas_delta": 9.34067023597065,
+          "cpc_delta": -0.49308755760368655
+        }
+      }
+    },
+    {
+      "campaign": "men comfortmax launch",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -66.19%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.024390243902439157,
+          "roas_delta": -0.6619120594129435,
+          "cpc_delta": -0.12978142076502722
+        }
+      }
+    },
+    {
+      "campaign": "Men Comf-rtMax Launch",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.0,
+          "roas_delta": 0.0,
+          "cpc_delta": 0.0
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN Seamless Everyday",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -21.86%",
+            "CPC increased 60.57%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.13547376664056388,
+          "roas_delta": -0.21856346086025139,
+          "cpc_delta": 0.6057142857142856
+        }
+      }
+    },
+    {
+      "campaign": "Women Seamless Everyday",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -23.74%",
+            "CPC increased 404.05%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.0029791459781530146,
+          "roas_delta": -0.23738180031929285,
+          "cpc_delta": 4.04054054054054
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN  Seamless  Everyday",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -34.63%",
+            "CPC increased 86.04%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.04671115347950424,
+          "roas_delta": -0.3462535390995733,
+          "cpc_delta": 0.86036036036036
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN_Seamless_Everyday",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "CPC increased 121.03%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.0819397993311036,
+          "roas_delta": 0.7204856626194778,
+          "cpc_delta": 1.2103092783505154
+        }
+      }
+    },
+    {
+      "campaign": "women seamless everyday",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.16172248803827738,
+          "roas_delta": 0.36434365171329264,
+          "cpc_delta": -0.4935217903415784
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN SEAMLESS EVERYDAY",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.13578138343296298,
+          "roas_delta": 0.023617820719269874,
+          "cpc_delta": -0.21649484536082458
+        }
+      }
+    },
+    {
+      "campaign": "MEN | ATHLEISURE COOLING",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.004640120858961846,
+          "roas_delta": 0.028069523189887566,
+          "cpc_delta": 0.03174603174603155
+        }
+      }
+    },
+    {
+      "campaign": "Men | Athleisure Cooling",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -86.15%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.0764957045115491,
+          "roas_delta": -0.8614937834649242,
+          "cpc_delta": 0.10843373493975901
+        }
+      }
+    },
+    {
+      "campaign": "Men_|_Athleisure_Cooling",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "CPC increased 78.77%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.028479229626594275,
+          "roas_delta": -0.052880481513327776,
+          "cpc_delta": 0.787716955941255
+        }
+      }
+    },
+    {
+      "campaign": "men | athleisure cooling",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 3,
+          "reasons": [
+            "CTR dropped -21.11%",
+            "ROAS fell -15.60%",
+            "CPC increased 28.83%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.21111846459298478,
+          "roas_delta": -0.15601636579139297,
+          "cpc_delta": 0.2883435582822084
+        }
+      }
+    },
+    {
+      "campaign": "Men  |  Athleisure  Cooling",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -60.06%",
+            "CPC increased 208.96%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.13545568039950057,
+          "roas_delta": -0.6005608228380764,
+          "cpc_delta": 2.0895522388059704
+        }
+      }
+    },
+    {
+      "campaign": "Men-Athleisure Cooling",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.06766917293233068,
+          "roas_delta": 0.3844263553985563,
+          "cpc_delta": -0.689001264222503
+        }
+      }
+    },
+    {
+      "campaign": "m n | athleisure cooling",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.0,
+          "roas_delta": 0.0,
+          "cpc_delta": 0.0
+        }
+      }
+    },
+    {
+      "campaign": "women summer invisible",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": -0.19120879120879108,
+          "roas_delta": -0.03169251517194897,
+          "cpc_delta": 0.08922124806601324
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN SUMMER INVISIBLE",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": -0.11747911599873107,
+          "roas_delta": 1.5163970915566105,
+          "cpc_delta": -0.4403131115459882
+        }
+      }
+    },
+    {
+      "campaign": "women Summer Invisible",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -48.11%",
+            "CPC increased 50.61%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.13157894736842116,
+          "roas_delta": -0.4810818102111014,
+          "cpc_delta": 0.5060975609756099
+        }
+      }
+    },
+    {
+      "campaign": "women_Summer_Invisible",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.06459948320413403,
+          "roas_delta": 2.1552455760202234,
+          "cpc_delta": -0.7659259259259259
+        }
+      }
+    },
+    {
+      "campaign": "women  Summer  Invisible",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": -0.0039164490861617425,
+          "roas_delta": -0.051044447934663215,
+          "cpc_delta": -0.47890818858560796
+        }
+      }
+    },
+    {
+      "campaign": "Women Summer Invisible",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -32.12%",
+            "CPC increased 67.23%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.09194583036350676,
+          "roas_delta": -0.3211938177296145,
+          "cpc_delta": 0.6722689075630255
+        }
+      }
+    },
+    {
+      "campaign": "MEN_Signature_Soft",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -61.21%",
+            "CPC increased 337.85%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.08909169926119082,
+          "roas_delta": -0.6121375530410182,
+          "cpc_delta": 3.3785192909280495
+        }
+      }
+    },
+    {
+      "campaign": "MEN Signature Soft",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -69.72%",
+            "CPC increased 93.26%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.18697756269247698,
+          "roas_delta": -0.6971606182795699,
+          "cpc_delta": 0.932608695652174
+        }
+      }
+    },
+    {
+      "campaign": "men signature soft",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -41.23%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.11400651465798034,
+          "roas_delta": -0.4122878783880078,
+          "cpc_delta": -0.22119815668202775
+        }
+      }
+    },
+    {
+      "campaign": "MEN  Signature  Soft",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -52.96%",
+            "CPC increased 64.38%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.11915269196822596,
+          "roas_delta": -0.5296229802513465,
+          "cpc_delta": 0.6438356164383562
+        }
+      }
+    },
+    {
+      "campaign": "MEN SIGNATURE SOFT",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -38.63%",
+            "CPC increased 52.09%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.07572056668295102,
+          "roas_delta": -0.3863287250384026,
+          "cpc_delta": 0.5209359605911331
+        }
+      }
+    },
+    {
+      "campaign": "Men Signature Soft",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -44.57%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.0038277511961720767,
+          "roas_delta": -0.4457019022393451,
+          "cpc_delta": -0.13559322033898283
+        }
+      }
+    },
+    {
+      "campaign": "Women Fit & Lift",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -75.90%",
+            "CPC increased 176.60%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.04677846425419241,
+          "roas_delta": -0.7589558455984449,
+          "cpc_delta": 1.7659947414548647
+        }
+      }
+    },
+    {
+      "campaign": "Women_Fit_&_Lift",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "CPC increased 81.21%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.08236208236208237,
+          "roas_delta": 0.5884726224783863,
+          "cpc_delta": 0.8121212121212121
+        }
+      }
+    },
+    {
+      "campaign": "Women  Fit  &  Lift",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -51.16%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.0708065380493034,
+          "roas_delta": -0.5115562403697996,
+          "cpc_delta": -0.22845528455284558
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN FIT & LIFT",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -18.36%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.022544283413848884,
+          "roas_delta": -0.18355521832103203,
+          "cpc_delta": -0.268170426065163
+        }
+      }
+    },
+    {
+      "campaign": "women fit & lift",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.011315417256011451,
+          "roas_delta": 0.17390986779636253,
+          "cpc_delta": -0.22028353326063255
+        }
+      }
+    },
+    {
+      "campaign": "Women Fit and Lift",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "CTR dropped -20.02%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.20024772914946332,
+          "roas_delta": 0.13930172210426997,
+          "cpc_delta": -0.4217866566151526
+        }
+      }
+    },
+    {
+      "campaign": "Men  Bold  Colors  Drop",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -24.72%",
+            "CPC increased 133.02%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.055682684973302886,
+          "roas_delta": -0.2472160356347441,
+          "cpc_delta": 1.3302180685358254
+        }
+      }
+    },
+    {
+      "campaign": "MEN BOLD COLORS DROP",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -35.79%",
+            "CPC increased 42.38%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.12479740680713132,
+          "roas_delta": -0.35793357933579345,
+          "cpc_delta": 0.42382271468144006
+        }
+      }
+    },
+    {
+      "campaign": "Men Bold Colors Drop",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.10671936758893281,
+          "roas_delta": 0.6858121725110841,
+          "cpc_delta": -0.6644628099173554
+        }
+      }
+    },
+    {
+      "campaign": "men bold colors drop",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": -0.031976744186046395,
+          "roas_delta": 0.7126511932003923,
+          "cpc_delta": -0.1078851864071264
+        }
+      }
+    },
+    {
+      "campaign": "Men_Bold_Colors_Drop",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": -0.09473684210526313,
+          "roas_delta": 0.1015772128060263,
+          "cpc_delta": -0.10727496917385945
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN Cotton Classics",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.14670255720053824,
+          "roas_delta": -0.1087940510830908,
+          "cpc_delta": -0.27402135231316715
+        }
+      }
+    },
+    {
+      "campaign": "Women Cotton Classics",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.011157601115759775,
+          "roas_delta": 0.24295746759247025,
+          "cpc_delta": -0.558041958041958
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN  Cotton  Classics",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": -0.057014734144779186,
+          "roas_delta": 0.7976981914361286,
+          "cpc_delta": -0.0550458715596328
+        }
+      }
+    },
+    {
+      "campaign": "women cotton classics",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "CPC increased 95.51%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.09267110841913997,
+          "roas_delta": 0.7721950932517506,
+          "cpc_delta": 0.9551282051282058
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN_Cotton_Classics",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -28.23%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.08554059921841076,
+          "roas_delta": -0.2822607144533635,
+          "cpc_delta": -0.17828263380824017
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN COTTON CLASSICS",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -43.84%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.11863839285714264,
+          "roas_delta": -0.43840114204139896,
+          "cpc_delta": -0.12667946257197676
+        }
+      }
+    },
+    {
+      "campaign": "Men_Premium_Modal",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.0016107382550337947,
+          "roas_delta": 1.048597253198732,
+          "cpc_delta": -0.10326797385620916
+        }
+      }
+    },
+    {
+      "campaign": "men premium modal",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -32.40%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.03620004184975958,
+          "roas_delta": -0.3239999999999998,
+          "cpc_delta": 0.0950000000000001
+        }
+      }
+    },
+    {
+      "campaign": "Men Premium Modal",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -18.62%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.060164661177960814,
+          "roas_delta": -0.18616943180149748,
+          "cpc_delta": -0.00799999999999989
+        }
+      }
+    },
+    {
+      "campaign": "Men  Premium  Modal",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -39.67%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.05395683453237439,
+          "roas_delta": -0.396715864800971,
+          "cpc_delta": -0.23720930232558116
+        }
+      }
+    },
+    {
+      "campaign": "MEN PREMIUM MODAL",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": 0.019710906701708227,
+          "roas_delta": 0.22004681847201513,
+          "cpc_delta": -0.33440514469453375
+        }
+      }
+    },
+    {
+      "campaign": "Women | Studio Sports",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": -0.07244582043343648,
+          "roas_delta": 0.21651606820146152,
+          "cpc_delta": -0.6370370370370371
+        }
+      }
+    },
+    {
+      "campaign": "Women-Studio Sports",
+      "evaluation": {
+        "summary": {
+          "impact": "low",
+          "severity": 0,
+          "reasons": [
+            "No performance issues detected"
+          ],
+          "confidence": 0.4
+        },
+        "evidence": {
+          "ctr_delta": -0.044941555824264214,
+          "roas_delta": -0.14866092906398679,
+          "cpc_delta": 0.014492753623188354
+        }
+      }
+    },
+    {
+      "campaign": "Women_|_Studio_Sports",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -65.29%",
+            "CPC increased 90.76%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.04596273291925466,
+          "roas_delta": -0.6529476039336074,
+          "cpc_delta": 0.9075907590759072
+        }
+      }
+    },
+    {
+      "campaign": "women | studio sports",
+      "evaluation": {
+        "summary": {
+          "impact": "medium",
+          "severity": 1,
+          "reasons": [
+            "ROAS fell -49.87%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.03767660910518064,
+          "roas_delta": -0.4987055301162382,
+          "cpc_delta": -0.18695652173913038
+        }
+      }
+    },
+    {
+      "campaign": "WOMEN | STUDIO SPORTS",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "CTR dropped -20.53%",
+            "CPC increased 92.51%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": -0.2053301029678982,
+          "roas_delta": 0.6492175133649913,
+          "cpc_delta": 0.9250599520383695
+        }
+      }
+    },
+    {
+      "campaign": "Women  |  Studio  Sports",
+      "evaluation": {
+        "summary": {
+          "impact": "high",
+          "severity": 2,
+          "reasons": [
+            "ROAS fell -45.75%",
+            "CPC increased 84.92%"
+          ],
+          "confidence": 0.7
+        },
+        "evidence": {
+          "ctr_delta": 0.037904893177119044,
+          "roas_delta": -0.45752016946860763,
+          "cpc_delta": 0.8491803278688524
+        }
+      }
+    }
+  ]
+}

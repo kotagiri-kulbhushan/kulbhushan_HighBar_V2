@@ -1,11 +1,11 @@
-from src.orchestrator import Orchestrator
+from src.orchestrator_v2 import OrchestratorV2
+
 
 def main():
-    print("Running Kasparro Agentic System...")
-
-    orch = Orchestrator(data_path="data/synthetic_fb_ads_undergarments.csv")
+    orch = OrchestratorV2()
     orch.run()
-
+    print(">>> Pipeline Finished Successfully.")
 if __name__ == "__main__":
     main()
+
 

@@ -1,0 +1,30 @@
+schema_version: 1
+
+data:
+  path: "data/synthetic_fb_ads_undergarments.csv"
+  date_col: "date"
+
+paths:
+  reports: "reports/"
+  logs: "logs/"
+
+windows:
+  recent_days: 7
+  baseline_days: 14
+
+thresholds:
+  ctr_min: 0.005
+  roas_min: 1.0
+  cpc_max: 50.0
+  min_rows: 5
+
+retry:
+  max_retries: 3
+  initial_delay: 1.0
+  backoff_factor: 2.0
+
+logging:
+  logs_dir: "logs"
+  level: "INFO"
+
+

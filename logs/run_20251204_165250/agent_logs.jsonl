@@ -1,0 +1,3 @@
+{"ts": "2025-12-04T16:52:52.397292", "run_id": "20251204_165250", "agent": "ReportAgentV2", "event": "insights_saved", "path": "reports\\insights_20251204_165250.json"}
+{"ts": "2025-12-04T16:52:52.398292", "run_id": "20251204_165250", "agent": "ReportAgentV2", "event": "creatives_saved", "path": "reports\\creatives_20251204_165250.json"}
+{"ts": "2025-12-04T16:52:52.400916", "run_id": "20251204_165250", "agent": "ReportAgentV2", "event": "markdown_saved", "path": "reports\\report_20251204_165250.md"}
