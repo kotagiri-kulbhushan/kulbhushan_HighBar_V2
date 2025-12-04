@@ -55,54 +55,30 @@ This consistent output format aligns with common expectations for automated anal
 
 ```
 kasparro-v2/
-
 │
-
 ├── src/
-
 │   ├── orchestrator_v2.py
-
 │   ├── run.py
-
 │   ├── utils/
-
 │   ├── agents/
-
 │   │   ├── planner_v2.py
-
 │   │   ├── insight_agent_v2.py
-
 │   │   ├── evaluation_agent_v2.py
-
 │   │   ├── creative_agent_v2.py
-
 │   │   └── report_agent_v2.py
-
 │
-
 ├── data/
-
 │   └── synthetic_fb_ads_undergarments.csv
-
 │
-
 ├── reports/
-
 │   ├── insights_*.json
-
 │   ├── creatives_*.json
-
 │   └── report_*.md
-
 │
-
 ├── README.md
-
 └── requirements.txt
-
 ```
 
----
 
 ## Pipeline Components
 
